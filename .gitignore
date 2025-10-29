@@ -1,0 +1,3 @@
+# Ignore the generated mobile clip blit TypeScript file
+mobileclip_blt.ts
+yoloe-11l-seg.pt
